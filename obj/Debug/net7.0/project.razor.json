@@ -16937,11 +16937,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "/Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/BlazorApp/Pages/Kintai.razor",
-      "TargetPath": "Kintai.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "/Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/BlazorApp/_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
