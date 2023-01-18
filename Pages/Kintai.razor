@@ -1,0 +1,30 @@
+﻿@page "/kintai"
+
+<h3>Kintai(@kintais.Count(kintai => !kintai.IsDone))</h3>
+
+<ul>
+    @foreach (var kintai in kintais)
+    {
+        <li>
+            <input type="checkbox" @bind="kintai.IsDone" />
+            <input @bind="kintai.Title" />
+        </li>
+    }
+</ul>  
+
+<input placeholder="Something kintai" @bind="newKintai" />
+<button @onclick="AddKintai">Add kintai</button>
+
+@code {
+    private List<KintaiItem> kintais = new();
+    private string? newKintai;
+
+    private void AddKintai()
+    {
+        if (!string.IsNullOrWhiteSpace(newKintai))
+        {
+            kintais.Add(new KintaiItem { Title = newKintai });
+            newKintai = string.Empty;
+        }
+    }
+}
