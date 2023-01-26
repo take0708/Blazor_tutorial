@@ -4,5 +4,10 @@
 
 <iframe src="https://calendar.google.com/calendar/embed?src=db5ea2f93f2db063b51fd15898d425689d99e3a09cece908b02fab8708b4cda5%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
 
+<p role="status">dt: @dt</p>
+
+<button class="btn btn-primary" @onclick="dt">Now Time</button>
+
 @code {
+    private DateTime dt = DateTime.Now;
 }

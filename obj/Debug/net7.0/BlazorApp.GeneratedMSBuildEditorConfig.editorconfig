@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = /Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/BlazorApp/
+build_property.ProjectDir = /Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/BlazorApp/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/BlazorApp
+build_property.MSBuildProjectDirectory = /Users/user/Desktop/個人開発関係/C#業務アプリ作成関係/BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/App.razor]
@@ -21,27 +21,27 @@ build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.TargetPath = Q291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.TargetPath = RmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.TargetPath = SW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/Kintai.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvS2ludGFpLnJhem9y
+build_metadata.AdditionalFiles.TargetPath = S2ludGFpLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/Todo.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kby5yYXpvcg==
+build_metadata.AdditionalFiles.TargetPath = VG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.TargetPath = U3VydmV5UHJvbXB0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/_Imports.razor]
@@ -49,17 +49,17 @@ build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-3ij3p7wwc4
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.TargetPath = TmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-wk4bcz64v1
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/user/Desktop/個人開発関係/C\#業務アプリ作成関係/BlazorApp/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = X0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
