@@ -1,13 +1,19 @@
 ﻿@page "/kintai"
 
-<h3>Kintai</h3>
+<PageTitle>Kintai</PageTitle>
 
-<iframe src="https://calendar.google.com/calendar/embed?src=db5ea2f93f2db063b51fd15898d425689d99e3a09cece908b02fab8708b4cda5%40group.calendar.google.com&ctz=Asia%2FTokyo" style="border: 0" width="1000" height="800" frameborder="0" scrolling="no"></iframe>
+<h1>Kintai</h1>
 
-<p role="status">dt: @dt</p>
+<p role="status">Date time: @dateTime</p>
 
-<button class="btn btn-primary" @onclick="dt">Now Time</button>
+<button class="btn btn-primary" @onclick="DateTime">Now Time</button>
 
 @code {
     private DateTime dt = DateTime.Now;
+    [Parameter]
+    public DateTime { get; set;} = DateTime.Now;
+    private void DateTime()
+    {
+        DateTime now;
+    }
 }
